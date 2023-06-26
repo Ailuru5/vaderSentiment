@@ -1,0 +1,67 @@
+{
+  "name": "Skilltree Jens",
+  "icon": "--",
+  "children": [
+    {
+      "name": "(Programmier)Sprachen",
+      "icon": "-",
+      "children": [
+        {
+          "name": "Libaries",
+          "children": [
+            {
+              "name": "Pandas"
+            },
+            {
+              "name": "SQLAlchemie"
+            }
+          ]
+        },
+        {
+          "name": "Reconissance"
+        },
+        {
+          "name": "WebApp"
+        }
+      ]
+    },
+    {
+      "name": "Azure Cloud",
+      "icon": "-",
+      "children": [
+        {
+          "name": "Case When"
+        },
+        {
+          "name": "Joins"
+        },
+        {
+          "name": "Aggregations"
+        },
+        {
+          "name": "...."
+        }
+      ]
+    },
+    {
+      "name": "Entwickler-Tools",
+      "icon": "-",
+      "children": [
+        {
+          "name": "Anti-Reverse"
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Radare2"
+            },
+            {
+              "name": "GDB"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
