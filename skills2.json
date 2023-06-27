@@ -1,19 +1,21 @@
 {
   "name": "Skilltree Jens",
-  "icon": "Python",
+  "icon": "-",
   "children": [
     {
       "name": "(Programmier)Sprachen",
-      "icon": "Python.json",
+      "icon": "Python",
       "children": [
         {
           "name": "Libaries",
           "children": [
             {
-              "name": "Pandas"
+              "name": "Pandas",
+              "icon":"pandas"
             },
             {
-              "name": "SQLAlchemie"
+              "name": "SQLAlchemie",
+              "icon":"sqlalchemy
             }
           ]
         },
@@ -27,7 +29,7 @@
     },
     {
       "name": "Azure Cloud",
-      "icon": "-",
+      "icon": "Azure",
       "children": [
         {
           "name": "Case When"
