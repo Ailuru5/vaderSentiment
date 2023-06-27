@@ -1,10 +1,10 @@
 {
   "name": "Skilltree Jens",
-  "icon": "--",
+  "icon": "Python",
   "children": [
     {
       "name": "(Programmier)Sprachen",
-      "icon": "-",
+      "icon": "Python.json",
       "children": [
         {
           "name": "Libaries",
